@@ -1,0 +1,78 @@
+Here's a list of possible classes that each file produces:
+
+1. **border-color.ts**
+   - border-[side]-[color]
+   - border-[side]-[opacity]
+
+2. **border-radius.ts**
+   - rounded-[size]
+   - rounded-[side]-[size]
+   - rounded-t-[size]
+   - rounded-r-[size]
+   - rounded-b-[size]
+   - rounded-l-[size]
+
+3. **border-width.ts**
+   - border-[side]-[width]
+
+4. **box-shadow.ts**
+   - shadow-[size]
+   - shadow-[side]-[size]
+   - shadow-[color]
+   - shadow-[opacity]
+
+5. **cursor.ts**
+   - cursor-[type]
+
+6. **display.ts**
+   - hidden
+   - block
+   - inline
+   - inline-block
+   - flex
+   - inline-flex
+
+7. **float.ts**
+   - float-[direction]
+   - clear-[direction]
+
+8. **overflow.ts**
+   - overflow-[property]
+   - overflow-x-[property]
+   - overflow-y-[property]
+
+9. **position.ts**
+   - static
+   - fixed
+   - absolute
+   - relative
+   - sticky
+
+10. **text-align.ts**
+    - text-[align]
+
+11. **text-decoration.ts**
+    - underline
+    - line-through
+    - no-underline
+
+12. **text-transform.ts**
+    - uppercase
+    - lowercase
+    - capitalize
+    - normal-case
+
+13. **vertical-align.ts**
+    - align-[value]
+
+14. **visibility.ts**
+    - visible
+    - invisible
+
+15. **whitespace.ts**
+    - whitespace-[value]
+
+16. **z-index.ts**
+    - z-[value]
+
+Please note that the values in square brackets (e.g., [side], [color], [size]) represent a range of possible values or a pattern that can be replaced with specific values as needed.
