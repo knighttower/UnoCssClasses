@@ -1,0 +1,138 @@
+files: animation.ts, columns.ts, container.ts, background.ts, and behaviors.ts. Here's a list of possible classes that each file produces:
+
+
+1. **animation.ts**
+   - animate-[animation-name]
+   - animate-[duration]
+   - animate-[timing-function]
+   - animate-[delay]
+   - animate-[iteration-count]
+   - animate-[direction]
+   - animate-[fill-mode]
+   - animate-[play-state]
+
+2. **background.ts**
+   - bg-[color]
+   - bg-opacity-[value]
+   - bg-gradient-to-[direction]
+   - bg-gradient-from-[color]
+   - bg-gradient-to-[color]
+   - bg-gradient-stops-[color]
+   - bg-gradient-opacity-[value]
+   - bg-image-[url]
+   - bg-position-[position]
+   - bg-size-[size]
+   - bg-repeat-[repeat]
+
+3. **behaviors.ts**
+   - display-[value]
+   - visibility-[value]
+   - pointer-events-[value]
+
+4. **columns.ts**
+   - col-[count]
+   - col-gap-[value]
+   - col-rule-[style]
+   - col-rule-width-[value]
+   - col-rule-color-[color]
+
+5. **container.ts**
+   - container
+   - container-[breakpoint]
+
+6. **default.ts**
+   - font-[property]-[value]
+   - text-[property]-[value]
+   - leading-[value]
+   - tracking-[value]
+   - text-[color]
+   - bg-[color]
+   - border-[color]
+   - rounded-[value]
+   - shadow-[value]
+   - opacity-[value]
+
+7. **divide.ts**
+   - divide-[property]-[value]
+   - divide-[color]
+
+8. **filters.ts**
+   - filter-[name]-[value]
+
+9. **line-clamp.ts**
+   - line-clamp-[value]
+
+10. **placeholder.ts**
+   - placeholder-[color]
+   - placeholder-[opacity]
+
+11. **scrolls.ts**
+   - scroll-[behavior]
+   - scroll-[direction]
+   - overflow-[property]
+
+12. **spacing.ts**
+   - m-[value]
+   - mt-[value]
+   - mr-[value]
+   - mb-[value]
+   - ml-[value]
+   - mx-[value]
+   - my-[value]
+   - p-[value]
+   - pt-[value]
+   - pr-[value]
+   - pb-[value]
+   - pl-[value]
+   - px-[value]
+   - py-[value]
+
+13. **static.ts**
+   - static
+
+14. **table.ts**
+   - table-[layout]
+   - border-[collapse]
+   - border-[color]
+   - border-[style]
+   - border-[width]
+   - table-[color]
+   - table-[opacity]
+   - table-[striped]
+   - table-[caption-side]
+   - table-[empty-cells]
+
+15. **touch-actions.ts**
+   - touch-[action]
+
+16. **typography.ts**
+   - font-[family]
+   - font-[size]
+   - font-[smoothing]
+   - font-[antialiasing]
+   - font-[weight]
+   - font-[style]
+   - font-[variant]
+   - text-[align]
+   - text-[decoration]
+   - text-[transform]
+   - text-[overflow]
+   - text-[shadow]
+   - text-[wrap]
+   - leading-[value]
+   - tracking-[value]
+   - list-[style]
+   - list-[position]
+   - placeholder-[color]
+   - placeholder-[opacity]
+
+17. **variables.ts**
+   - [variable-name]
+
+18. **view-transition.ts**
+   - transition-[property]
+   - transition-[duration]
+   - transition-[timing-function]
+   - transition-[delay]
+
+Please note that the values in square brackets (e.g., [value], [color], [direction]) represent a range of possible values or a pattern that can be replaced with specific values as needed. Additionally, some files may produce classes that are similar to those produced by other files, such as bg-[color] in background.ts and default.ts.
