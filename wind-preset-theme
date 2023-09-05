@@ -1,0 +1,75 @@
+Here's a list of possible classes that each file produces:
+
+1. **shortcuts.ts**
+   - bg-[color]
+   - text-[color]
+   - border-[color]
+   - rounded-[value]
+   - shadow-[value]
+   - opacity-[value]
+
+2. **theme.ts**
+   - bg-[color]
+   - text-[color]
+   - border-[color]
+   - rounded-[value]
+   - shadow-[value]
+   - opacity-[value]
+
+3. **variants.ts**
+   - [variant-name]-bg-[color]
+   - [variant-name]-text-[color]
+   - [variant-name]-border-[color]
+   - [variant-name]-rounded-[value]
+   - [variant-name]-shadow-[value]
+   - [variant-name]-opacity-[value]
+
+4. **variants/combinators.ts**
+   - [variant-name]-[combinator]-bg-[color]
+   - [variant-name]-[combinator]-text-[color]
+   - [variant-name]-[combinator]-border-[color]
+   - [variant-name]-[combinator]-rounded-[value]
+   - [variant-name]-[combinator]-shadow-[value]
+   - [variant-name]-[combinator]-opacity-[value]
+
+5. **variants/dark.ts**
+   - dark:bg-[color]
+   - dark:text-[color]
+   - dark:border-[color]
+   - dark:rounded-[value]
+   - dark:shadow-[value]
+   - dark:opacity-[value]
+
+6. **variants/default.ts**
+   - bg-[color]
+   - text-[color]
+   - border-[color]
+   - rounded-[value]
+   - shadow-[value]
+   - opacity-[value]
+
+7. **variants/experimental.ts**
+   - experimental:bg-[color]
+   - experimental:text-[color]
+   - experimental:border-[color]
+   - experimental:rounded-[value]
+   - experimental:shadow-[value]
+   - experimental:opacity-[value]
+
+8. **variants/media.ts**
+   - [media-query]:bg-[color]
+   - [media-query]:text-[color]
+   - [media-query]:border-[color]
+   - [media-query]:rounded-[value]
+   - [media-query]:shadow-[value]
+   - [media-query]:opacity-[value]
+
+9. **variants/misc.ts**
+   - [misc-variant]:bg-[color]
+   - [misc-variant]:text-[color]
+   - [misc-variant]:border-[color]
+   - [misc-variant]:rounded-[value]
+   - [misc-variant]:shadow-[value]
+   - [misc-variant]:opacity-[value]
+
+Please note that the values in square brackets (e.g., [color], [value], [variant-name]) represent a range of possible values or a pattern that can be replaced with specific values as needed. Additionally, some files may produce classes that are similar to those produced by other files, such as bg-[color] in shortcuts.ts and theme.ts.
