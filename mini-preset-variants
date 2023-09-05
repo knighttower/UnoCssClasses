@@ -1,0 +1,118 @@
+here's a list of possible classes that each file produces:
+
+## _variants/aria.ts
+- `.aria-current:`
+- `.aria-disabled:`
+- `.aria-expanded:`
+- `.aria-haspopup:`
+- `.aria-hidden:`
+- `.aria-invalid:`
+- `.aria-pressed:`
+- `.aria-selected:`
+- `.aria-checked:`
+- `.aria-describedby:`
+- `.aria-labelledby:`
+- `.aria-live:`
+- `.aria-atomic:`
+- `.aria-relevant:`
+- `.aria-busy:`
+- `.aria-controls:`
+- `.aria-owns:`
+- `.aria-posinset:`
+- `.aria-setsize:`
+- `.aria-level:`
+- `.aria-modal:`
+- `.aria-multiline:`
+- `.aria-multiselectable:`
+- `.aria-readonly:`
+- `.aria-required:`
+- `.aria-secret:`
+- `.aria-sort:`
+- `.aria-valuemax:`
+- `.aria-valuemin:`
+- `.aria-valuenow:`
+- `.aria-valuetext:`
+
+## _variants/breakpoints.ts
+- `.sm:`
+- `.md:`
+- `.lg:`
+- `.xl:`
+
+## _variants/combinators.ts
+- `.hover:`
+- `.focus:`
+- `.active:`
+- `.disabled:`
+- `.group-hover:`
+- `.group-focus:`
+- `.focus-within:`
+- `.focus-visible:`
+- `.motion-safe:`
+- `.motion-reduce:`
+
+## _variants/container.ts
+- `.sm:`
+- `.md:`
+- `.lg:`
+- `.xl:`
+
+## _variants/dark.ts
+- `.dark:`
+
+## _variants/data.ts
+- `.data-:`
+
+## _variants/default.ts
+- `.default:`
+
+## _variants/directions.ts
+- `.ltr:`
+- `.rtl:`
+
+## _variants/important.ts
+- `.important:`
+
+## _variants/media.ts
+- `.sm:`
+- `.md:`
+- `.lg:`
+- `.xl:`
+
+## _variants/misc.ts
+- `.first:`
+- `.last:`
+- `.odd:`
+- `.even:`
+- `.visited:`
+- `.checked:`
+- `.empty:`
+- `.read-only:`
+- `.read-write:`
+- `.not-sr-only:`
+- `.sr-only:`
+
+## _variants/negative.ts
+- `.negative:`
+
+## _variants/pseudo.test.ts
+- `.pseudo-test:`
+
+## _variants/pseudo.ts
+- `.before:`
+- `.after:`
+- `.first-letter:`
+- `.first-line:`
+- `.selection:`
+- `.placeholder:`
+- `.marker:`
+- `.backdrop:`
+- `.cue:`
+- `.grammar-error:`
+- `.spelling-error:`
+
+## _variants/supports.ts
+- `.supports:`
+- `.not-supports:`
+
+Please note that this is a list of possible classes that each file produces. The actual classes and their usage may vary depending on the specific implementation and usage of the CSS framework.
